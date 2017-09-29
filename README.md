@@ -9,7 +9,7 @@ Il s'agit de penser un produit, en l'occurence un site web ou un app, de sorte �
 
 L'un des aspect les plus importants de l'UX design selon moi est l'importance que l'on accorde aux interfaces que l'on créé. Les interfaces sont le medium entre l'utilisateur et un appareil. On parle de User Experience / User Interface, c'est pour ça que vous verrez parfois l'abbréviation *UX/UI Design*. 
 
-L'interface de votre ordinateur, c'est les fenêtres qui vous donnent des informations et c'est aussi votre clavier et votre souris qui vous permettent de donner des ordres à votre machine. L'interface de votre site, c'est l'emplacement, la disposition des éléments sur les pages. 
+L'interface de votre ordinateur, c'est les fenêtres qui vous donnent des informations et c'est aussi votre clavier et votre souris qui vous permettent de donner des ordres à votre machine. La souris est d'ailleurs un bon exemple de *designer pour les êtres humains*, c'est à dire que c'est elle qui s'adapte à notre main, à notre façon de faire, et pas l'inverse. L'interface de votre site, c'est l'emplacement, la disposition des éléments sur les pages. 
 
 Quand on conçoit un site web ou une application, il est très important de placer l'humain au coeur du processus. Par exemple, il ne faut pas placer un bouton *Home* ou tout autre lien important en haut de l'écran d'un smartphone, personne ne fait ça sauf Blackberry. 
 On peut aussi notamment parler des boutons tout colorés sur internet, comme les boutons Acheter, par exemple. Ils se démarquent, ils donnent envie de cliquer (c'est pour cela qu'on les appelle aussi des call2action, on dit qu'ils sont affordants), *cela* est de l'UX Design. 
