@@ -1,7 +1,9 @@
 # UX Design
 
-Qu'est-ce que c'est ? Si vous n'en avez jamais entendu parler, l'**User Experience Design** consiste à placer l'utilisateur au coeur du design, au coeur de la conception. 
+Qu'est-ce que c'est ? Si vous n'en avez jamais entendu parler, l'**User Experience Design**, ou expérience utilisateur, consiste à placer l'utilisateur au coeur du design, au coeur de la conception. 
 Il s'agit de penser un produit, en l'occurence un site web ou un app, de sorte à le rendre agréable, utile et facile à utiliser *pour les êtres humains*. 
+
+À une époque où les écrans font toutes les tailles et entre dans nos poches, il est important de concevoir votre site de la meilleur manière. De plus, votre site sera plus facile à rendre responsive si vous faites attention à l'expérience utilisateur dès le départ ! 
 
 ## Des interfaces pour les humains
 
@@ -19,7 +21,7 @@ Au moins de clics il y a, au plus l'utilisateur est satisfait.
 
 ## Un visiteur satisfait
 
-Sur internet, j'en ai... j'en ai raz le cul de voir des sites avec des menus incohérents, des sites où les publicités occupent plus de place que le contenu principal, **STOP AU BULLSHIT ! ** 
+Sur internet, j'en ai... j'en ai raz le cul de voir des sites avec des menus incohérents, des sites où les publicités occupent plus de place que le contenu principal, **STOP AU BULLSHIT !** 
 
 Ce qui fera de vos sites et apps de bons produits, ce n'est pas seulement la qualité de votre code mais aussi la qualité de l'expérience qu'en tireront les utilisateurs. J'aurai beaucoup plus tendance à conseiller un joli site bien rangé où j'aurais eu facile à trouver l'information que je cherche que le site de la SNCB par exemple. 
 
