@@ -1,19 +1,19 @@
 # UX Design
 
 Qu'est-ce que c'est ? Si vous n'en avez jamais entendu parler, l'**User Experience Design** consiste à placer l'utilisateur au coeur du design, au coeur de la conception. 
-Il s'agit de penser un produit, en l'occurence un site web ou un app, de sorte à le rendre agréable, utile et facile par les êtres humains. 
+Il s'agit de penser un produit, en l'occurence un site web ou un app, de sorte à le rendre agréable, utile et facile à utiliser *pour les êtres humains*. 
 
 ## Des interfaces pour les humains
 
 L'un des aspect les plus importants de l'UX design selon moi est l'importance que l'on accorde aux interfaces que l'on créé. Les interfaces sont le medium entre l'utilisateur et un appareil. On parle de User Experience / User Interface, c'est pour ça que vous verrez parfois l'abbréviation *UX/UI Design*. 
 
-L'interface de votre ordinateur, c'est les fenêtres qui vous donnent des informations et c'est aussi votre clavier et votre souris qui vous permettent de donner des ordres à votre machine. L'interface de votre site, c'est l'emplacement des éléments sur les pages. 
+L'interface de votre ordinateur, c'est les fenêtres qui vous donnent des informations et c'est aussi votre clavier et votre souris qui vous permettent de donner des ordres à votre machine. L'interface de votre site, c'est l'emplacement, la disposition des éléments sur les pages. 
 
-Quand on conçoit un site web ou une application, il est très important de placer l'humain au coeur du processus. Par exemple, il ne faut pas placer un bouton *Home* en haut de l'écran d'un smartphone, un humain n'a pas les doigts assez longs. 
+Quand on conçoit un site web ou une application, il est très important de placer l'humain au coeur du processus. Par exemple, il ne faut pas placer un bouton *Home* ou tout autre lien important en haut de l'écran d'un smartphone, personne ne fait ça sauf Blackberry. 
 On peut aussi notamment parler des boutons tout colorés sur internet, comme les boutons Acheter, par exemple. Ils se démarquent, ils donnent envie de cliquer (c'est pour cela qu'on les appelle aussi des call2action, on dit qu'ils sont affordants), *cela* est de l'UX Design. 
 
 Il faut s'imaginer à la place du visiteur et faire preuve d'empathie, il ne faut pas oublier que ce sont des humains qui vont utiliser vos créations. 
-Également, gardez en tête l'objectif de vos utilisateurs en concevant votre site de **la manière la plus SIMPLE, CLAIR et EFFICACE** possible. Lorsque vous allez sur Google, vous voulez faire une recherche. Ils l'ont bien compris, c'est pour ça que sur leur page d'accueil on voit immédiatement un champ de recherche. 
+Également, gardez en tête l'objectif de vos utilisateurs en concevant votre site de **la manière la plus SIMPLE, CLAIR et EFFICACE** possible, votre site doit être facile à comprendre et à utiliser. Lorsque vous allez sur Google, vous voulez faire une recherche. Ils l'ont bien compris, c'est pour ça que sur leur page d'accueil on voit immédiatement un champ de recherche et on sait quoi et comment faire. 
 
 Au moins de clics il y a, au plus l'utilisateur est satisfait. 
 
