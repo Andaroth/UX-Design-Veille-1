@@ -3,7 +3,7 @@
 Qu'est-ce que c'est ? Si vous n'en avez jamais entendu parler, l'**User Experience Design**, ou expérience utilisateur, consiste à placer l'utilisateur au coeur du design, au coeur de la conception. 
 Il s'agit de penser un produit, en l'occurence un site web ou un app, de sorte à le rendre agréable, utile et facile à utiliser *pour les êtres humains*. 
 
-À une époque où les écrans font toutes les tailles et entre dans nos poches, il est important de concevoir votre site de la meilleur manière. De plus, votre site sera plus facile à rendre responsive si vous faites attention à l'expérience utilisateur dès le départ ! 
+À une époque où les écrans font toutes les tailles, nous suivent partout et entrent dans nos poches, il est important de concevoir votre site de la meilleur manière. De plus, votre site sera plus facile à rendre responsive si vous faites attention à l'expérience utilisateur dès le départ ! 
 
 ## Des interfaces pour les humains
 
