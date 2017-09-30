@@ -50,9 +50,19 @@ Le référencement se base sur le contenu d'un site, votre design doit mettre en
 
 L'UX Design c'est l'art et la manière de construire les pages d'un site de sorte que les visiteurs aient facile à naviguer et qu'ils trouvent leur visite agréable. Le référencement d'un site repose énormément sur sa *User Experience*. 
 
-* Facile à utiliser
-* Facile à comprendre
-* Peu de clics, efficace
-* Confortable pour le visiteur
+### Votre site doit
+- [x] Être facile à utiliser
+- [x] Être facile à comprendre
+- [x] Nécéssiter peu de clics
+- [x] Être efficace
+- [x] Être confortable pour le visiteur
 
 ![UX Design in a nutshell](http://www.mezganisaid.com/blog/articles_img/Knowing-the-difference-between-the-UX-and-UI-design-1.jpg "UX Design in a nutshell")
+
+### Quelques liens héroïques
+- [HoverStates](https://hoverstat.es/) // Plein de sites très tourné vers l'UX
+- [Webdesigner Trends](http://www.webdesignertrends.com/) // Plein de news intéressantes avec des images et fonts à télécharger
+- [CodePen](http://www.webdesignertrends.com/) // Très connu, vous y trouverez une infinité d'exemples de codes
+
+
+([https://github.com/Andaroth/UX-Design-Veille-1](https://github.com/Andaroth/UX-Design-Veille-1) // Le lien vers le readme de cette veille ! xD )
