@@ -63,6 +63,7 @@ L'UX Design c'est l'art et la manière de construire les pages d'un site de sort
 - [HoverStates](https://hoverstat.es/) // Plein de sites très tourné vers l'UX
 - [Webdesigner Trends](http://www.webdesignertrends.com/) // Plein de news intéressantes avec des images et fonts à télécharger
 - [CodePen](http://www.webdesignertrends.com/) // Très connu, vous y trouverez une infinité d'exemples de codes
+- [Awwwards](https://www.awwwards.com/) // Encore un site rempli de nourriture pour votre esprit UX
 
 
 ([https://github.com/Andaroth/UX-Design-Veille-1](https://github.com/Andaroth/UX-Design-Veille-1) // Le lien vers le readme de cette veille ! xD )
