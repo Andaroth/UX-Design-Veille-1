@@ -9,6 +9,8 @@ Il s'agit de penser un produit, en l'occurence un site web ou un app, de sorte �
 
 ## Des interfaces pour les humains
 
+![UX/UI](https://i.pinimg.com/originals/5d/3e/8a/5d3e8ae9899c995abf53bb52b41208e2.jpg "UX/UI") 
+
 L'un des aspect les plus importants de l'UX design selon moi est l'importance que l'on accorde aux interfaces que l'on créé. Les interfaces sont le medium entre l'utilisateur et un appareil. On parle de User Experience / User Interface, c'est pour ça que vous verrez parfois l'abbréviation *UX/UI Design*. 
 
 L'interface de votre ordinateur, c'est les fenêtres qui vous donnent des informations et c'est aussi votre clavier et votre souris qui vous permettent de donner des ordres à votre machine.
@@ -24,6 +26,8 @@ Il faut s'imaginer à la place du visiteur et faire preuve d'empathie, il ne fau
 
 Au moins de clics il y a, au plus l'utilisateur est satisfait. 
 
+![UX](https://thenextweb.com/wp-content/blogs.dir/1/files/2015/06/Screen-Shot-2015-06-04-at-10.09.12.png "UX") 
+
 ## Un visiteur satisfait
 
 Sur internet, j'en ai... j'en ai raz le cul de voir des sites avec des menus incohérents, des sites où les publicités occupent plus de place que le contenu principal, **STOP AU BULLSHIT !** 
@@ -31,6 +35,8 @@ Sur internet, j'en ai... j'en ai raz le cul de voir des sites avec des menus inc
 Ce qui fera de vos sites et apps de bons produits, ce n'est pas seulement la qualité de votre code mais aussi la qualité de l'expérience qu'en tireront les utilisateurs. J'aurai beaucoup plus tendance à conseiller un joli site bien rangé où j'aurais eu facile à trouver l'information que je cherche que le site de la SNCB par exemple. 
 
 Un site agréable augmente la *rétention*, diminue le taux de rebond et améliore ainsi le référencement de votre site. 
+
+![Analytics](https://developers.google.com/analytics/images/terms/logo_lockup_analytics_icon_horizontal_black_2x.png "Analytics")
 
 ## UX/SEO ou le SXO
 
@@ -48,3 +54,5 @@ L'UX Design c'est l'art et la manière de construire les pages d'un site de sort
 * Facile à comprendre
 * Peu de clics, efficace
 * Confortable pour le visiteur
+
+![UX Design in a nutshell](http://www.mezganisaid.com/blog/articles_img/Knowing-the-difference-between-the-UX-and-UI-design-1.jpg "UX Design in a nutshell")
