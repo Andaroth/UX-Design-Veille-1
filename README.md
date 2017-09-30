@@ -1,5 +1,7 @@
 # UX Design
 
+![UX Design](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAbKAAAAJGY5Y2U2OTdjLTM0MmUtNDViZi1hZDE3LWRiN2FiMjE0YTk2Yg.png "UX Design")
+
 Qu'est-ce que c'est ? Si vous n'en avez jamais entendu parler, l'**User Experience Design**, ou expérience utilisateur, consiste à placer l'utilisateur au coeur du design, au coeur de la conception. 
 Il s'agit de penser un produit, en l'occurence un site web ou un app, de sorte à le rendre agréable, utile et facile à utiliser *pour les êtres humains*. 
 
