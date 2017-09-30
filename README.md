@@ -66,4 +66,4 @@ L'UX Design c'est l'art et la manière de construire les pages d'un site de sort
 - [Awwwards](https://www.awwwards.com/) // Encore un site rempli de nourriture pour votre esprit UX
 
 
-([https://github.com/Andaroth/UX-Design-Veille-1](https://github.com/Andaroth/UX-Design-Veille-1) // Le lien vers le readme de cette veille ! xD )
+([https://github.com/Andaroth/UX-Design-Veille-2-10-2017](https://github.com/Andaroth/UX-Design-Veille-2-10-2017) // Le lien vers le readme de cette veille ! xD )
