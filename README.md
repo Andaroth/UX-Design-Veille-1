@@ -18,7 +18,7 @@ L'interface de votre site, c'est l'emplacement, la disposition des éléments su
 
 *La souris est d'ailleurs un bon exemple car c'est elle qui s'adapte à notre main, à notre façon de faire, et pas l'inverse.*
 
-Quand on conçoit un site web ou une application, il est très important de placer l'humain au coeur du processus. Par exemple, il ne faut pas placer un bouton *Home* ou tout autre lien important en haut de l'écran d'un smartphone, personne ne fait ça sauf Blackberry. 
+Quand on conçoit un site web ou une application, il est très important de placer l'humain au coeur du processus. Par exemple, il ne faut pas placer un bouton *Home* ou tout autre lien important en haut de l'écran d'un smartphone car le pouce ne peut pas l'atteindre, en plus personne ne fait ça sauf Blackberry. 
 On peut aussi notamment parler des boutons tout colorés sur internet, comme les boutons Acheter, par exemple. Ils se démarquent, ils donnent envie de cliquer (c'est pour cela qu'on les appelle aussi des call2action, on dit qu'ils sont affordants), *cela* est de l'UX Design. 
 
 Il faut s'imaginer à la place du visiteur et faire preuve d'empathie, il ne faut pas oublier que ce sont des humains qui vont utiliser vos créations. 
